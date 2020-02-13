@@ -205,7 +205,7 @@ public class Main {
         pressKey(robot, KeyEvent.VK_DOWN, 500, 8);
         // To go through the default screens
         pressKey(robot, KeyEvent.VK_ENTER, 500, 3);
-        // inventory@firstchoicewheelsandtires.com
+        // inventory@company.com
         pressKey(robot, KeyEvent.VK_I, 500, 1);
         pressKey(robot, KeyEvent.VK_N, 500, 1);
         pressKey(robot, KeyEvent.VK_V, 500, 1);
